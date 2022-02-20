@@ -1,0 +1,10 @@
+.h1-design {
+  height: 50px;
+  color: #fff;
+  padding: 1rem 1rem;
+  font-size: medium;
+  font-family: "Ubuntu", sans-serif;
+}
+.search-div {
+  margin: auto;
+}
